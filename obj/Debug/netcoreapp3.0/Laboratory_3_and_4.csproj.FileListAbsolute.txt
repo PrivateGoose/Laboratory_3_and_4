@@ -1,0 +1,11 @@
+C:\Users\juanp\source\repos\Laboratory_3_and_4\bin\Debug\netcoreapp3.0\Laboratory_3_and_4.exe
+C:\Users\juanp\source\repos\Laboratory_3_and_4\bin\Debug\netcoreapp3.0\Laboratory_3_and_4.deps.json
+C:\Users\juanp\source\repos\Laboratory_3_and_4\bin\Debug\netcoreapp3.0\Laboratory_3_and_4.runtimeconfig.json
+C:\Users\juanp\source\repos\Laboratory_3_and_4\bin\Debug\netcoreapp3.0\Laboratory_3_and_4.runtimeconfig.dev.json
+C:\Users\juanp\source\repos\Laboratory_3_and_4\bin\Debug\netcoreapp3.0\Laboratory_3_and_4.dll
+C:\Users\juanp\source\repos\Laboratory_3_and_4\bin\Debug\netcoreapp3.0\Laboratory_3_and_4.pdb
+C:\Users\juanp\source\repos\Laboratory_3_and_4\obj\Debug\netcoreapp3.0\Laboratory_3_and_4.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\Laboratory_3_and_4\obj\Debug\netcoreapp3.0\Laboratory_3_and_4.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\Laboratory_3_and_4\obj\Debug\netcoreapp3.0\Laboratory_3_and_4.AssemblyInfo.cs
+C:\Users\juanp\source\repos\Laboratory_3_and_4\obj\Debug\netcoreapp3.0\Laboratory_3_and_4.dll
+C:\Users\juanp\source\repos\Laboratory_3_and_4\obj\Debug\netcoreapp3.0\Laboratory_3_and_4.pdb
